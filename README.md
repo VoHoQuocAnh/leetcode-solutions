@@ -54,12 +54,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vohoquocanh2024-del/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/vohoquocanh2024-del/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
-## Manacher
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/vohoquocanh2024-del/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
